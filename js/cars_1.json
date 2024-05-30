@@ -1,0 +1,20 @@
+[
+    {
+        "name" : "saphira",
+        "model" : "Honda",
+        "type":{
+            "four": ["CRV","Crosstour"],
+            "salon": ["Accord","Civic"]
+        },
+        "year": "2014"
+    },
+    {
+        "name" : "Massi",
+        "model" : "Mercedes",
+        "type":{
+            "four": ["G55","G65"],
+            "salon": ["AMG","SLR"]
+        },
+        "year": "2013"
+    }
+]
